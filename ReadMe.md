@@ -30,8 +30,11 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The player sele
 4. Follow the on-screen instructions to play.
 
 ## 🖥 Example Output
+``` 
 What do you choose? Type 0 for Rock, 1 for Paper, or 2 for Scissors.
-> 0
+
+> 0 
+
 You chose:
     _______
 ---'   ____)
@@ -49,6 +52,8 @@ Computer chose:
 ---.__________)
 
 You lose!
+
+```
 
 ## 🚀 Features
 
